@@ -1,0 +1,3 @@
+.ipynb_checkpoints/**
+.venv/**
+rl-baselines3-zoo/
